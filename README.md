@@ -1,3 +1,5 @@
+MASTER Project
+
 Tomya është një vajzë. Ajo e do shumë Chef Ciel. Tomya pëlqen një numër të plotë pozitiv p, dhe tani ajo dëshiron të marrë një faturë të restorantit të Ciel, çmimi total i të cilit është saktësisht p. Menutë aktuale të restorantit Ciel janë paraqitur në tabelën e mëposhtme.
 
 Menyja e i-të ka çmimin 2i-1 (1 ≤ i ≤ 12).
